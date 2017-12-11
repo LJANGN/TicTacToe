@@ -1,2 +1,2 @@
 # TicTacToe
-testing python in github
+A very simple version where two players can play against each other. No AI involved...
